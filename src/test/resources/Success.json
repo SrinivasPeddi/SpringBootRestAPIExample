@@ -1,0 +1,82 @@
+ [
+        {
+            "address": {
+                "street": "Meerkreuk-test",
+                "housenumber": "68",
+                "postalcode": "2377 VM",
+                "city": "Oude Wetering",
+                "geoLocation": {
+                    "lat": "52.20721",
+                    "lng": "4.6426"
+                }
+            },
+            "distance": 0,
+            "openingHours": [
+                {
+                    "dayOfWeek": 2,
+                    "hours": [
+                        {
+                            "hourFrom": "07:00",
+                            "hourTo": "23:00"
+                        }
+                    ]
+                },
+                {
+                    "dayOfWeek": 3,
+                    "hours": [
+                        {
+                            "hourFrom": "07:00",
+                            "hourTo": "23:00"
+                        }
+                    ]
+                },
+                {
+                    "dayOfWeek": 4,
+                    "hours": [
+                        {
+                            "hourFrom": "07:00",
+                            "hourTo": "23:00"
+                        }
+                    ]
+                },
+                {
+                    "dayOfWeek": 5,
+                    "hours": [
+                        {
+                            "hourFrom": "07:00",
+                            "hourTo": "23:00"
+                        }
+                    ]
+                },
+                {
+                    "dayOfWeek": 6,
+                    "hours": [
+                        {
+                            "hourFrom": "07:00",
+                            "hourTo": "23:00"
+                        }
+                    ]
+                },
+                {
+                    "dayOfWeek": 7,
+                    "hours": [
+                        {
+                            "hourFrom": "07:00",
+                            "hourTo": "23:00"
+                        }
+                    ]
+                },
+                {
+                    "dayOfWeek": 1,
+                    "hours": [
+                        {
+                            "hourFrom": "07:00",
+                            "hourTo": "23:00"
+                        }
+                    ]
+                }
+            ],
+            "functionality": "Geldautomaat",
+            "type": "GELDMAAT"
+        }
+    ]
